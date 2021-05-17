@@ -33,3 +33,4 @@ Having a background in Areospace, I spent all my time working with machines and 
 
     <a href="https://github.com/GLRJr" target="blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=violet"/>
     </a>
+    </span>
