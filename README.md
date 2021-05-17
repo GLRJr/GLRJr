@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ### Hi there 👋
 I am a Full Stack Software Engineer based in Los Angeles, California. I started my career as a Aviation Electronics/ Propulsion Technician and soon my love of hardware developed into a love of software.
 
-Having a background in Areospace, I spent all my time working with machines and now I get to work with people. I find Software Engineering interesting because I've seen the amazing things we can acomplish with technology. I am looking forward to collaborating with other engineers and designers to build things people love.
+Having a background in Areospace, I spent all my time working with machines and now I get to work with people. I enjoy developing software because I've seen the amazing things we can acomplish with technology. I am looking forward to collaborating with other engineers and designers to build things people love.
 <hr>
 
 ![GLR's GitHub stats](https://github-readme-stats.vercel.app/api?username=GLRJr&show_icons=true)
