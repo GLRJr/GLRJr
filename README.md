@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 <img src='images/banner.png' alt="banner"></img>
 
-![Ellaine's github stats](https://github-readme-stats.vercel.app/api?username=GLRJr&theme=merko&layout=compact)
+![GLR's github stats](https://github-readme-stats.vercel.app/api?username=GLRJr&theme=merko&layout=compact)
