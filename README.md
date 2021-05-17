@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src='images/banner.png' alt="banner"></img>
+
+![Ellaine's github stats](https://github-readme-stats.vercel.app/api?username=GLRJr&theme=merko&layout=compact)
