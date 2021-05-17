@@ -25,8 +25,9 @@ Having a background in Areospace, I spent all my time working with machines and 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GLRJr)](https://github.com/GLRJr/github-readme-stats)
 
 <hr>
-</br>
  📫 How to reach me: ...
+</br>
+
 <span>
  <a>
     <a href="mailto:atigrouse@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
