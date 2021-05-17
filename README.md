@@ -14,18 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src='images/banner.png' alt="banner"></img>
+<img src="github-readme-images/Blue Illustrated Technology General LinkedIn Banner.gif" alt="banner"></img>
 
 ![GLR's GitHub stats](https://github-readme-stats.vercel.app/api?username=GLRJr&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GLRJr)](https://github.com/GLRJr/github-readme-stats)
 
 <hr>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GLRJr&show_icons=true" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="(https://github-readme-stats.vercel.app/api/top-langs/?username=GLRJr)](https://github.com/GLRJr/github-readme-stats)" />
-</a>
 
-<hr>
