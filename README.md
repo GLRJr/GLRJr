@@ -24,7 +24,7 @@ Having a background in Areospace, I spent all my time working with machines and 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GLRJr)](https://github.com/GLRJr/github-readme-stats) -->
 
-<hr>
+<!-- <hr> -->
  📫 How to reach me: ...
 </br>
 
